@@ -1,0 +1,14 @@
+body {
+  max-width: 40em;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.container {
+    width: 150px;
+    height: 100px;
+    background-image: url("Vega1.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+}​

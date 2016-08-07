@@ -13,6 +13,23 @@ img {
     height: 200px;
 }
 
+
+
+img.Vega2 {
+	object-fit: cover;
+    width: auto;
+    height: auto;
+    max-width: 1400px;
+    max-height: 400px;
+    overflow: hidden;
+}
+
+P.blocktext {
+    margin-left: auto;
+    margin-right: auto;
+    width: 6em
+}
+
 @keyframes tossing {
 	  0% {
 	    transform: rotate(-4deg); 
